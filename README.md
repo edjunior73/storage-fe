@@ -51,6 +51,8 @@ A modern file storage and management application built with Next.js, React, and 
    NEXT_PUBLIC_API_URL=<your-api-url>
    ```
 
+   and change the API_BASE_URL in api.ts
+
 3. Run the development server:
    ```bash
    bun dev
